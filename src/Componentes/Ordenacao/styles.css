@@ -1,0 +1,19 @@
+.container {
+    margin-top: 56px;
+    margin-bottom: 32px;
+    padding: 0;
+    justify-content: center;
+    font-size: 22px;
+    gap: 24px;
+}
+
+.primeira__ancora {
+    background-color: transparent;
+    color: var(--verde-destaque);
+}
+
+.segunda__ancora {
+    background-color: transparent;
+    color: var(--cinza-medio);
+    text-decoration: none;
+}
